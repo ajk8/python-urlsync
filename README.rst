@@ -10,16 +10,16 @@ Installation
 
 From an activated virtual environment, simply type:
 
-```pip install git+https://github.com/ajk8/python-urlsync```
+``pip install git+https://github.com/ajk8/python-urlsync``
 
 Usage
 -----
 
 From the command line:
 
-```urlsync URL```
+``urlsync URL``
 
 The above command will download the file at URL to a file of the same name in the cwd.
 More usages can be found by typing:
 
-```urlsync -h```
+``urlsync -h``
