@@ -10,7 +10,7 @@ Installation
 
 From an activated virtual environment, simply type:
 
-```pip install git+https://github.com/ajk8/fencepy```
+```pip install git+https://github.com/ajk8/python-urlsync```
 
 Usage
 -----
