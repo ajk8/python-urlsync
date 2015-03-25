@@ -1,0 +1,20 @@
+# python files
+*.pyc
+__pycache__/
+MANIFEST
+dist/
+*.egg/
+*.egg-info/
+.cache/
+.coverage
+build/
+.pyve/
+.eggs/
+.tox/
+
+# sublime files
+*.sublime-project
+*.sublime-workspace
+
+# intellij files
+.idea/
